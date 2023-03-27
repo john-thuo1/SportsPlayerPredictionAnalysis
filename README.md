@@ -11,6 +11,6 @@ The implementation codes are contained in the ***player_prediction.ipynb***
 
 # Model Performance Metrics <br />
   {'learning_rate': 0.15, 'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 1, 'reg_lambda': 0} <br />
-  Root Mean Square Error: 1.2100500363924542 <br />
-  Meam Absolute Error: 0.8290837172906761 <br />
-  Mean Square Error: 1.46422109057338  <br />
+  * Root Mean Square Error: 1.2100500363924542 <br />
+  * Meam Absolute Error: 0.8290837172906761 <br />
+  * Mean Square Error: 1.46422109057338  <br />
