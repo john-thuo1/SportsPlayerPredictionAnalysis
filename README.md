@@ -6,4 +6,4 @@ The algorithm uses features such as  potential, passing, dribbling and attacking
 # Instructions
 To use the model in your application, fork the repository and use the file ***fifamodeltrained.pkl***. It is contained in the streamapplication directory.
 If you want to test the application, fork/download the repository, and cd into streamapplication directory. 
-Run ***streamlit run streamApp.py***.
+Run ***streamlit run streamApp.py*** on the Vscode Terminal
